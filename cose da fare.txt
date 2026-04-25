@@ -1,0 +1,13 @@
+1. card da aggiustare perche diventani sempre piu piccoli scrollando orrizontale, 
+2. aggiungere la frecetta dello scrollo per cambiare sezione divisa in 2023/2024 2024/2025 2025/2026
+3. nella sezione name letter shell cambialo con C H R I S con corrispodenti overlay esempio: E engineer
+4. nella sezione about me  ask the spider, the question grid cambialo con domande di tipo chi sei tu? e si dovrebbe rispondere con informazioni di CHRIS about me togli anche input per fare domande perche non collegata a api dell AI assistant
+5.anche nel about fact con i corrispodenti informazioni proposti
+6. nel project universe si preferisco tornare a diventare skill universe di lasciare in vuoto che ci penso io ad mettere le immagini corrispodenti ma mi devi dire dove metterli a quale file quale riga
+7.  card dei progetti, la finestra che si appare per la presetaione del progetto deve essere piu largo e piu grande in modo da cotenere alcuni immagini che è possibile scrollare con le frecette
+8. sia nella contact me di inserire i propri informazioni personali, se non esiste lascia in vuoto e apposite commenti
+
+
+cose da fare per me
+
+immagini, logo per skill, background per le card da metterlo a gpt
