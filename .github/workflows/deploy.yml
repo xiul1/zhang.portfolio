@@ -33,7 +33,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          VITE_BASE: /zhang/
+          VITE_BASE: /zhang.portfolio/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
