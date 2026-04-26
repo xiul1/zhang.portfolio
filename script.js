@@ -196,7 +196,7 @@ const LANGUAGE_COPY = {
     ],
     assistant: {
       defaultAnswer:
-        "Sono Chris Zhang, studente di terza superiore informatica al Liceo Blaise Pascal di Reggio Emilia. Studio anche pianoforte al Conservatorio Peri-Merulo.",
+        "Sono Chris Zhang, studente di quinto anno dell'indirizzo tecnico informatico al Blaise Pascal di Reggio Emilia (A.S. 2025/2026). Mi specializo in backend e architettura software con focus su sicurezza. Studio anche pianoforte al Conservatorio Peri-Merulo.",
       defaultStatus: "Clicca una domanda per saperne di più.",
       emptyQuestion: "Inserisci prima una domanda su Chris, poi rispondo.",
       loadingAnswer: (question) => `Elaboro una risposta su "${question}"...`,
@@ -208,28 +208,28 @@ const LANGUAGE_COPY = {
         {
           label: "Chi sei?",
           answer:
-            "Sono Chris Zhang, frequento la terza superiore dell'indirizzo informatico al Liceo Blaise Pascal di Reggio Emilia. Mi appassionano la cybersecurity e lo sviluppo full-stack. Nel tempo libero studio pianoforte al Conservatorio Peri-Merulo.",
+            "Sono Chris Zhang, frequento il quinto anno dell'indirizzo tecnico informatico al Blaise Pascal di Reggia Emilia. Mi specializo in backend (Node.js, PHP) e architettura software con focus su sicurezza. Nel tempo libero suono pianoforte al Conservatorio Peri-Merulo di Reggio Emilia.",
         },
         {
           label: "Cosa sai fare?",
           answer:
-            "Programmo in JavaScript, Node.js e PHP. So configurare reti LAN (indirizzi IP, switch), assemblare computer e sviluppare applicazioni web full-stack con MySQL. Il mio progetto più completo è KeyManager: backend PHP, database crittografato e browser extension con autofill automatico.",
+            "Sviluppo backend in Node.js e PHP, gestisco database MySQL con crittografia, implemento autenticazione sicura (prepared statements, CSRF protection). Ho esperienza in: API REST, browser extension (manifest, content scripts, service worker), testing con Jest (80%+ coverage), reti LAN (IP, switch), hardware (assemblaggio). Il mio progetto maggiore è KeyManager: password manager con triple-layer security.",
         },
         {
           label: "Qual è il tuo progetto migliore?",
           answer:
-            "KeyManager: un sistema completo di gestione credenziali con PHP backend, MySQL a doppio livello di crittografia e browser extension per l'autofill automatico. Ho curato la sicurezza end-to-end con CSRF protection, prepared statements contro SQL injection e test Jest con copertura oltre l'80%.",
+            "KeyManager: sistema di gestione credenziali a tre strati. Backend PHP con autenticazione utente e CSRF protection. Database MySQL con doppio livello di crittografia (master password + layer aggiuntivo). Browser extension JavaScript che rileva campi login e auto-compila dati securizzati. Ho implementato session timeout 30 min, prepared statements contro SQL injection, logging per audit trail, email verification e password reset tokenizzato. Test Jest con copertura 80%+.",
         },
         {
           label: "Cosa ti appassiona dell'informatica?",
           answer:
-            "La cybersecurity mi affascina di più. Al laboratorio Mead Informatica abbiamo simulato un attacco a una vera infrastruttura aziendale — capire come ragiona un attaccante mi ha aiutato a progettare sistemi più sicuri.",
+            "La cybersecurity mi affascina: capire come ragionano gli attaccanti. Al laboratorio Mead Informatica abbiamo simulato un vero attacco/difesa su infrastruttura aziendale. Mi piace anche l'architettura software — progettare sistemi che funzionano davvero, non solo belli. E mi attrae scoprire come i componenti si interconnettono (backend, database, frontend, network).",
         },
       ],
       facts: [
-        "Frequento l'indirizzo informatico, con focus su reti, hardware, programmazione e sicurezza.",
-        "Parto dal problema concreto, costruisco la soluzione minima funzionante, poi aggiungo sicurezza e robustezza.",
-        "Mi appassionano la cybersecurity, lo sviluppo full-stack e la progettazione di sistemi realmente sicuri.",
+        "Specializzato in backend (Node.js, PHP) e architettura software con focus su sicurezza e testing.",
+        "Dalla progettazione al codice: database design, autenticazione robusta, API REST, browser extension, test coverage.",
+        "Mi importa che il codice sia sicuro, manutenibile e testato — non basta che 'funzioni', deve essere resiliente.",
       ],
     },
     secondaryProjects: {

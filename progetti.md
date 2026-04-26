@@ -1,290 +1,328 @@
 Ecco tutto il testo completo riscritto con MEAD inserito sotto “2. Mi Presento” come volevi 👇
 
 👤 ABOUT ME
-Chris Zhang
-Frequenta la terza superiore dell'indirizzo informatico della scuola superiore Blaise Pascal. Si impegna inoltre nello studio del pianoforte presso il Conservatorio di Reggio Emilia Peri-Merulo.
-Le sue competenze:
-Musica
-Informatica
-Reti
 
-📁 PORTFOLIO — Progetti principali (sezione PORTFOLIO)
-1. CNA
-Tipo di progetto: Ascolto
-Data: 04/2025 2024/2025
-Luogo: Reggio Emilia – Credem
-Descrizione: Durante questo progetto è stata visitata un'azienda e si è partecipato a un incontro di orientamento in cui sono state illustrate le competenze richieste per lavorare in un contesto aziendale, con particolare attenzione alle abilità trasversali e professionali. Chris ha preso parte attiva all'ascolto e alla raccolta di informazioni, riflettendo sulle competenze da sviluppare per affrontare il mondo del lavoro con maggiore consapevolezza. L'esperienza ha permesso di conoscere meglio il contesto aziendale, le aspettative dei datori di lavoro e le soft skills più richieste.
-Competenze tecniche: Conoscenze di base sulle dinamiche aziendali
-Competenze trasversali:
-Ascolto attivo e capacità di recepire feedback
-Capacità di autovalutazione e miglioramento continuo
-Orientamento al lavoro e al futuro professionale
+**Chi sono**
+Sono Chris Zhang, studente di quinto anno presso l'indirizzo tecnico informatico della scuola superiore Blaise Pascal di Reggio Emilia (A.S. 2025/2026). Parallelo agli studi, coltivo la passione per il pianoforte presso il Conservatorio di Reggio Emilia Peri-Merulo.
 
-2. Mi Presento
-Tipo di progetto: Compilare un curriculum
-Data: 03/2025 2024/2025
-Luogo: Reggio Emilia – Tecnopolo
-Descrizione: Durante questo progetto è stato appreso come realizzare un curriculum vitae efficace, curando sia il contenuto che l'impaginazione. L'obiettivo era acquisire consapevolezza su come presentarsi in modo professionale e valorizzare le proprie esperienze. Chris ha realizzato in autonomia il proprio curriculum vitae, scegliendo il formato più adatto, selezionando le informazioni rilevanti e curandone l'aspetto grafico. Il risultato è un curriculum completo, pronto per essere utilizzato in contesti scolastici, di stage o lavorativi.
-Competenze tecniche: Organizzazione efficace dei contenuti professionali
-Competenze trasversali:
-Autovalutazione delle proprie esperienze e capacità
-Attenzione al dettaglio e presentazione personale
-Consapevolezza delle aspettative del mondo del lavoro
+**Cosa faccio**
+Mi specializo nello sviluppo di applicazioni con focus su backend e architettura software. Conosco bene Node.js, PHP e JavaScript (lato client e browser extension). Ho esperienza pratica in: gestione database MySQL, autenticazione e sicurezza (crittografia, SQL injection prevention, CSRF protection), integrazione API REST, e testing automatico (Jest).
 
-3. MEAD
-Tipo di progetto: Progettazione
-Data: 02/2025 2024/2025
-Luogo: Reggio Emilia
-Descrizione: Durante questo progetto sono stati approfonditi il funzionamento dei server, delle reti e dei collegamenti di rete. Sono state realizzate connessioni tra PC utilizzando sia la rete telefonica sia uno switch, configurando manualmente gli indirizzi IP. Chris ha partecipato attivamente alla configurazione della rete e al collegamento fisico dei dispositivi, contribuendo alla creazione di una comunicazione funzionante tra due computer. L’esperienza ha permesso di comprendere concretamente il funzionamento di una rete locale.
-Competenze tecniche:
-Configurazione manuale degli indirizzi IP
-Reti locali (LAN)
-Utilizzo di switch e basi di comunicazione client-server
-Competenze trasversali:
-Collaborazione e lavoro di gruppo
-Precisione tecnica
-Capacità di seguire istruzioni tecniche
+**Le mie competenze**
+- **Backend**: Node.js, PHP, logica applicativa, gestione database
+- **Frontend**: JavaScript vanilla, browser extension (manifest, content scripts, service worker)
+- **Sicurezza**: Crittografia, session management, prepared statements, input validation
+- **Pratiche di qualità**: Testing (80%+ coverage), debugging distribuito, logging e audit trail
+- **Reti**: Configurazione indirizzi IP, switch e LAN, client-server communication
+- **Altro**: Musica classica (pianoforte), problem solving, lavoro in team, comunicazione tecnica
 
-4. Polarity
+📁 PORTFOLIO per PCTO — Progetti principali (sezione PORTFOLIO)
+1. CNA - Orientamento Aziendale
 
-Tipo di progetto: Studio
-Data: 11/2024 2024/2025
-Luogo: Reggio Emilia
-
-Descrizione: Progetto sviluppato durante un’attività di laboratorio informatico con l’obiettivo di comprendere e applicare i concetti di Node.js, API e sviluppo di bot su Telegram. Chris ha ricoperto il ruolo di progettista e programmatore principale, occupandosi della struttura dell’applicazione, dello sviluppo backend e dell’integrazione con API musicali. Il risultato è stato un bot Telegram funzionante, in grado di cercare artisti e fornire descrizione e discografia.
+Tipo di progetto: Orientamento - Ascolto
+Data: 04/2025 (A.S. 2024/2025)
+Luogo: Reggio Emilia (Credem)
+Descrizione: Ho partecipato a una visita aziendale e a un incontro di orientamento presso Credem. Ho ascoltato esperti che hanno illustrato le competenze tecniche e trasversali richieste nel contesto aziendale moderno. Ho riflettuto su quali gap ho nella mia preparazione e su quali skill devo sviluppare per affrontare il mercato del lavoro con consapevolezza. L'incontro mi ha aiutato a comprendere concretamente cosa si aspettano i datori di lavoro oltre le competenze puramente tecniche.
 
 Competenze tecniche:
-Programmazione in JavaScript (Node.js)
-Utilizzo e integrazione di API REST
-Sviluppo di bot Telegram
-Gestione di richieste asincrone
+- Dinamiche aziendali: struttura organizzativa, processi
+- Ciclo di vita del progetto in azienda
+- Specifici del settore bancario/finanziario (in questo caso)
 
 Competenze trasversali:
-Lavoro di gruppo
-Problem solving
-Comunicazione tecnica
-Gestione del tempo
+- Ascolto attivo: capacità di estrarre informazioni rilevanti
+- Autovalutazione: riconoscere miei punti di forza e debolezza
+- Miglioramento continuo: identificare azioni concrete per lo sviluppo
+- Orientamento professionale: visione consapevole del proprio futuro
 
+2. Mi Presento - Curriculum Vitae
 
-5. Sicurezza
-
-Tipo di progetto: Studio
-Data: 02/2024 2024/2025
-Luogo: Reggio Emilia
-
-Descrizione: Progetto dedicato allo studio delle principali regole di sicurezza e igiene nell’utilizzo del computer. L’attività ha permesso di comprendere come prevenire problemi fisici legati all’uso prolungato del PC, come affaticamento visivo e postura scorretta. Chris ha partecipato attivamente, apprendendo come organizzare correttamente la postazione di lavoro e adottare comportamenti sicuri.
+Tipo di progetto: Sviluppo professionale - Comunicazione
+Data: 03/2025 (A.S. 2024/2025)
+Luogo: Reggio Emilia (Tecnopolo)
+Descrizione: Ho imparato a costruire un curriculum vitae efficace durante un'attività formativa. Ho scelto il formato più adatto al mio profilo, selezionato le informazioni rilevanti da evidenziare, e curato l'aspetto grafico. L'esperienza mi ha insegnato come presentarmi professionalmente, valorizzando le competenze acquisite senza esagerare. Ho realizzato un CV pronto per stage e opportunità lavorative, con consapevolezza di cosa cercano i datori di lavoro.
 
 Competenze tecniche:
-Corretta disposizione della postazione di lavoro
-Prevenzione dei disturbi legati all’uso del PC
+- Struttura del curriculum: sezioni standard (contatti, profile, esperienze, competenze, formazione)
+- Formati: PDF, ATS-friendly, design
+- Linguaggio professionale: sintesi, keywords, azione
 
 Competenze trasversali:
-Responsabilità
-Attenzione alla salute
+- Autovalutazione: riconoscere cosa è rilevante delle mie esperienze
+- Storytelling professionale: raccontare la propria storia con credibilità
+- Attenzione al dettaglio: ortografia, formattazione, consistenza
+- Self-marketing etico: presentarsi senza esagerare
 
-6. Monta e Smonta
+3. MEAD - Configurazione Reti
 
-Tipo di progetto: Assemblaggio Computer
-Data: 02/2024 2024/2025
+Tipo di progetto: Laboratorio pratico - Reti
+Data: 02/2025 (A.S. 2024/2025)
+Luogo: Reggio Emilia
+Descrizione: Ho partecipato al montaggio e configurazione di una rete locale durante un laboratorio pratico. Ho imparato a configurare manualmente gli indirizzi IP su due PC collegati tramite switch, creando una comunicazione funzionante tra i due sistemi. Abbiamo sperimentato sia con collegamento telefonico che con switch. L’esperienza mi ha insegnato come funziona concretamente una LAN e come i dispositivi comunicano una volta correttamente configurati. La precisione era cruciale: anche un singolo byte sbagliato nell’indirizzo IP interrompeva la comunicazione.
+Competenze tecniche:
+- Configurazione IPv4: subnet mask, gateway, assegnazione manuale indirizzi
+- Switch e hardware di rete: connessioni fisiche, cablaggio
+- LAN: architettura, isolamento di rete, comunicazione locale
+- Client-server: logica di comunicazione tra due sistemi
+- Protocolli di base: ping, risoluzione indirizzi
+Competenze trasversali:
+- Lavoro di squadra su compiti coordinati
+- Precisione e attenzione al dettaglio (configurazione critica)
+- Debugging pratico: identificare problemi di connettività
+- Competenza tecnica hands-on
+
+4. Polarity - Telegram Bot Musicale
+
+Tipo di progetto: Sviluppo software - Laboratorio
+Data: 11/2024 (A.S. 2024/2025)
 Luogo: Reggio Emilia
 
-Descrizione: Progetto pratico in cui è stato smontato e rimontato un computer fisso per studiarne le componenti interne e comprenderne il funzionamento. Chris ha partecipato attivamente alle operazioni, identificando e analizzando i principali componenti hardware (CPU, RAM, hard disk, scheda madre, alimentatore) e il loro ruolo nel sistema. L’attività ha permesso di acquisire maggiore dimestichezza con la manutenzione e l’organizzazione interna di un PC.
+Descrizione: Ho sviluppato un bot Telegram in Node.js che integra API REST per la ricerca di artisti e musica. Durante questo progetto ho appreso come strutturare un’applicazione backend con Node.js, gestire richieste asincrone, e integrare servizi esterni tramite API. Ho implementato la logica di ricerca che, ricevuto il nome di un artista, interroga un servizio musicale e restituisce descrizione e discografia. L’esperienza mi ha insegnato l’importanza di una buona gestione degli errori e della resilienza alle chiamate API esterne.
 
 Competenze tecniche:
-Conoscenza dei componenti hardware
-Comprensione del funzionamento del computer
-Tecniche base di montaggio e manutenzione
+- JavaScript (Node.js): logica applicativa, moduli, gestione dipendenze
+- API REST: integrazione con servizi esterni, gestione risposte JSON
+- Bot Telegram: integrazione con API Telegram, handler di messaggi
+- Programmazione asincrona: promise, async/await, gestione errori
+- Struttura backend: organizzazione del codice, configurazione
 
 Competenze trasversali:
-Precisione e attenzione ai dettagli
-Lavoro di squadra
+- Comprensione di sistemi distribuiti (client-server, API)
+- Problem solving: debug di integrazioni API
+- Documentazione e comunicazione tecnica
+- Lavoro di gruppo nella progettazione
 
-7. ANPAL
 
-Tipo di progetto: Ascolto
-Data: 02/2023 2024/2025
+5. Sicurezza e Igiene al PC
+
+Tipo di progetto: Studio - Salute e Sicurezza sul Lavoro
+Data: 02/2024 (A.S. 2024/2025)
 Luogo: Reggio Emilia
 
-Descrizione: Progetto di orientamento dedicato all’approfondimento del ruolo di ANPAL (Agenzia Nazionale per le Politiche Attive del Lavoro), ente che supporta l’occupazione attraverso servizi di formazione, orientamento e inserimento lavorativo. Chris ha studiato le funzioni dell’ente e il suo ruolo nel mercato del lavoro, acquisendo una visione generale delle opportunità disponibili per giovani e lavoratori. L’attività ha permesso di comprendere meglio i percorsi formativi e professionali disponibili.
+Descrizione: Ho approfondito le regole di sicurezza e ergonomia nell’utilizzo prolungato del computer. L’attività mi ha sensibilizzato su come piccole abitudini preventive (postura, pause, illuminazione) impattano sulla salute a lungo termine. Ho imparato a organizzare correttamente la postazione di lavoro, considerando posizionamento di monitor, tastiera, mouse, e la gestione dell’affaticamento visivo e muscolare.
 
 Competenze tecniche:
-Conoscenza delle funzioni di ANPAL
-Panoramica su formazione e inserimento lavorativo
+- Ergonomia del workspace: altezza scrivania, monitor distance, supporto lombare
+- Prevenzione di RSI (Repetitive Strain Injury): postura mani, movimenti ripetitivi
+- Salute visiva: distanza schermo, illuminazione, frequenza di break
+- Ambiente di lavoro: aria, rumore, temperature
 
 Competenze trasversali:
-Orientamento al futuro professionale
-Comprensione del mercato del lavoro
+- Responsabilità verso la propria salute
+- Consapevolezza del benessere a lungo termine
+- Autocura e prevenzione (non aspettare il danno per agire)
+- Disciplina nel mantenere buone abitudini
 
-8. Linux
+6. Monta e Smonta - Assemblaggio Computer
 
-Tipo di progetto: Studio
-Data: 02/2023. 2024/2025
+Tipo di progetto: Laboratorio pratico - Hardware
+Data: 02/2024 (A.S. 2024/2025)
 Luogo: Reggio Emilia
 
-Descrizione: Progetto di studio dedicato al sistema operativo Linux, con particolare attenzione alla distribuzione Ubuntu. L’attività ha permesso di approfondire le caratteristiche di un sistema open source, la sua struttura e il suo utilizzo rispetto ad altri sistemi operativi. Chris ha esplorato l’ambiente Linux, imparando a utilizzare il terminale e i principali comandi per la gestione del sistema.
+Descrizione: Ho smontato e rimontato un computer fisso durante un’attività laboratoriale. Ho identificato ogni componente (CPU, RAM, hard disk, scheda madre, alimentatore, dissipatori, ventole) e compreso il loro ruolo nell’ecosistema del sistema. L’esperienza mi ha insegnato come i componenti interconnessi formano un sistema integrato, e come la manutenzione pratica richieda precisione e conoscenza delle specifiche (connettori compatibili, corretta orientazione, gestione termica).
 
 Competenze tecniche:
-Conoscenza base del sistema operativo Linux
-Utilizzo del terminale in Ubuntu
-Differenze tra sistemi operativi open source e proprietari
+- Componenti hardware: CPU (socket e thermal paste), RAM (slots), storage (SATA, M.2)
+- Alimentazione: voltaggio, connettori PWR, distribuzione energia
+- Dissipazione termica: ventole, pasta termica, percorsi aria
+- Connettori e interfacce: PCI, USB, audio interni
+- Troubleshooting: diagnosi di boot failure, sostituzione componenti
 
 Competenze trasversali:
-Adattabilità a nuovi ambienti digitali
-Apprendimento autonomo
+- Precisione manuale: manipolazione delicata di componenti fragili
+- Attenzione ai dettagli: orientamento corretto, connessioni salde
+- Lavoro di squadra: coordinamento con compagni per attività simultanee
+- Responsabilità: conscienziosità nel trattare dispositivi costosi
+
+7. ANPAL - Orientamento al Lavoro
+
+Tipo di progetto: Orientamento - Studio
+Data: 02/2023 (A.S. 2024/2025)
+Luogo: Reggio Emilia
+
+Descrizione: Ho approfondito il ruolo di ANPAL (Agenzia Nazionale per le Politiche Attive del Lavoro) durante un’attività di orientamento. Ho imparato come l’ente supporta l’occupazione tramite formazione, orientamento personalizzato e inserimento lavorativo. L’esperienza mi ha fornito una mappa delle risorse disponibili per giovani dopo il diploma, e una comprensione più consapevole del mercato del lavoro italiano e delle sfide dell’inserimento.
+
+Competenze tecniche:
+- Panoramica ANPAL: missione, programmi, servizi (CPI, collocamento, formazione)
+- Percorsi formativi: ITS, università, apprendistato
+- Incentivi all’occupazione per aziende
+- Mercato del lavoro: demand, supply, skill gaps
+
+Competenze trasversali:
+- Orientamento professionale: visione sistemica delle opportunità
+- Consapevolezza del contesto: come funziona il sistema lavoro in Italia
+- Pianificazione: identificare percorsi concreti per il proprio futuro
+- Networking: conoscenza di risorse e contatti
+
+8. Linux - Fondamenti Ubuntu
+
+Tipo di progetto: Studio - Laboratorio
+Data: 02/2023 (A.S. 2024/2025)
+Luogo: Reggio Emilia
+
+Descrizione: Ho approfondito il sistema operativo Linux (distribuzione Ubuntu) durante un’attività di studio. Ho imparato come utilizzare il terminale, i principali comandi di gestione (navigazione, permessi file, gestione processi) e compreso la filosofia open source dietro Linux. L’esperienza mi ha insegnato come il paradigma di progettazione (modularità, trasparenza del codice, comunità) influenza il funzionamento del sistema rispetto ai sistemi proprietari.
+
+Competenze tecniche:
+- Terminale Linux/Bash: navigazione, comandi di base, script
+- Gestione file system: permessi (chmod), proprietari, struttura directory
+- Processi e servizi: visualizzazione, terminazione, background jobs
+- Package manager: installazione e aggiornamento software
+- Differenze tra sistemi operativi: kernel, file system, licenze
+
+Competenze trasversali:
+- Adattabilità: imparare un nuovo ambiente dopo anni con Windows/macOS
+- Apprendimento autonomo: documentazione, troubleshooting
+- Curiosità tecnica: capire "come funziona" non solo "come usare"
 
 
 
-9. Polarity
-Tipo di progetto: Formazione / Laboratorio AI
-Data: 2025. A.S 2025/2026
+9. Polarity - Laboratorio AI (Algoritmi e API)
+
+Tipo di progetto: Laboratorio formativo - IA e Problem Solving
+Data: 2025 (A.S. 2025/2026)
 Luogo: Laboratori territoriali
 
-Descrizione: Durante questo progetto è stata svolta un’attività formativa focalizzata sull’utilizzo consapevole degli strumenti di intelligenza artificiale per produttività, creatività e problem solving. L’attività principale consisteva in un gioco a squadre basato su chiamate API: attraverso richieste a un server e risposte in formato JSON, i gruppi dovevano individuare tesori nascosti su una mappa. In base ai feedback ricevuti (lontano, vicino, molto vicino), sono stati sviluppati algoritmi sempre più efficienti per ottimizzare la ricerca. Il progetto si è concluso con una presentazione degli algoritmi realizzati.
+Descrizione: Ho partecipato a un’attività formativa in cui abbiamo applicato API e algoritmi per risolvere un gioco di ricerca su mappa. L’esercizio mi ha insegnato come interpretare feedback binari da un server e ottimizzare la strategia di ricerca. Abbiamo fatto richieste HTTP a un servizio che rispondeva con JSON (lontano, vicino, molto vicino). Nel team abbiamo sviluppato algoritmi sempre più efficienti: inizialmente un’approccio casuale, poi una ricerca per quadranti, infine una strategia di bisezione. L’esperienza ha rafforzato la mia capacità di ragionare algoritmicamente e tradurre feedback in strategie migliori. La presentazione finale ha richiesto di comunicare chiaramente il processo iterativo.
 
 Competenze tecniche:
-Utilizzo di API e gestione di richieste HTTP
-Interpretazione di dati in formato JSON
-Sviluppo e ottimizzazione di algoritmi
+- HTTP e REST API: effettuare richieste, interpretare risposte
+- Formati dati: parsing JSON, gestione risposte strutturate
+- Algoritmi: ottimizzazione mediante feedback, complessità temporale
+- Logica e strategia: bisezione, ricerca geografica, prototipazione rapida
 
 Competenze trasversali:
-Problem solving
-Lavoro di gruppo
-Pensiero logico e strategico
+- Pensiero algoritmico e ottimizzazione
+- Adattamento della strategia basato su feedback (iterazione)
+- Comunicazione di idee tecniche
+- Collaborazione sotto pressione competitiva
 
-10. Mead Informatica
-Tipo di progetto: Cybersecurity / Laboratorio
-Data: 04/2026. A.S 2025/2026
-Luogo: Azienda (attività in sede)
+10. Mead Informatica - Laboratorio Cybersecurity
 
-Descrizione: Attività laboratoriale pratica incentrata sulla sicurezza informatica, basata su una simulazione reale di attacco e difesa di un’infrastruttura aziendale. Gli studenti sono stati divisi in due gruppi: uno con il ruolo di attaccante, incaricato di individuare vulnerabilità, e l’altro con il ruolo di difensore, impegnato nel monitoraggio e nella protezione del sistema. L’esperienza ha permesso di comprendere concretamente le dinamiche della cybersecurity.
+Tipo di progetto: Laboratorio - Cybersecurity
+Data: 04/2026 (A.S. 2025/2026)
+Luogo: Azienda
+
+Descrizione: Ho partecipato a un esercizio di simulazione reale di attacco/difesa di un’infrastruttura aziendale. Il nostro team ha ricoperto il ruolo di difensori: abbiamo monitorato i sistemi, identificato i tentativi di intrusione, e messo in atto contromisure. L’esperienza è stata illuminante: mi ha insegnato come le vulnerabilità si manifestano nella pratica e come è necessario pensare in modo "offensivo" (mettersi nei panni dell’attaccante) anche quando si difende. Ho visto come piccole configurazioni errate possono aprire varchi di accesso importanti.
 
 Competenze tecniche:
-Conoscenza delle tecniche di attacco informatico
-Strategie di difesa e monitoraggio sistemi
-Applicazione pratica della cybersecurity
+- Monitoraggio sistemico: log analysis, detection di attività sospette
+- Difesa: patching, configurazione sicura, hardening
+- Comprensione di tecniche di attacco: brute force, privilege escalation, social engineering
+- Risposta agli incidenti: gestione in tempo reale
+- Audit trail: tracciamento delle attività per investigazione
 
 Competenze trasversali:
-Pensiero critico
-Collaborazione
-Gestione di situazioni complesse
+- Pensiero critico: anticipare manovre avversarie
+- Gestione dello stress sotto pressione (esercizio in real-time)
+- Collaborazione stretta con il team
+- Responsabilità sulla sicurezza altrui
 
-11. Restituzione Tirocinio
+11. Restituzione Tirocinio - Gestione Dati Aziendali
+
 Tipo di progetto: Presentazione / Comunicazione
-Data: 11/2025 A.S 2025/2026
+Data: 11/2025 (A.S. 2025/2026)
 Luogo: Scuola
 
-Descrizione: Attività di condivisione dell’esperienza di tirocinio aziendale attraverso presentazioni PowerPoint. Gli studenti hanno illustrato il proprio percorso davanti alla classe e ai docenti. Il progetto personale riguardava di gesione autonomo dei dati sensibili aziendali verso piattaforma smartsuite.
+Descrizione: Ho presentato l’esperienza del mio tirocinio aziendale davanti alla classe e ai docenti. Durante il tirocinio ho gestito autonomamente il trasferimento di dati sensibili aziendali verso la piattaforma SmartSuite, imparando l’importanza della precisione nel trattamento di informazioni confidenziali e il rispetto dei protocolli di data handling. La presentazione mi ha sfidato nel sintetizzare un’esperienza complessa in modo comprensibile e interessante per il pubblico.
 
 Competenze tecniche:
-Presentazione con PowerPoint
-Sintesi di un progetto tecnico
-Organizzazione dei contenuti
+- Presentazione visiva: design di slide, uso di PowerPoint
+- Gestione dati: integrità, confidenzialità, trasferimento sicuro
+- Sintesi tecnica: trasformare esperienza in narrativa chiara
+- Piattaforme SaaS: SmartSuite (struttura, logica di importazione dati)
 
 Competenze trasversali:
-Capacità espositiva
-Comunicazione efficace
-Autovalutazione
+- Public speaking: comunicare con sicurezza davanti al pubblico
+- Sintesi: catturare gli elementi chiave di un’esperienza
+- Responsabilità nel trattare dati sensibili
+- Autovalutazione e riflessione su apprendimenti
 
 
 
-12. Orientamento Ready To Go
-Tipo di progetto: Orientamento
-Data: 2025 A.S 2025/2026
+12. Orientamento Ready To Go - Scelte Post-Diploma
+
+Tipo di progetto: Orientamento - Decisionale
+Data: 2025 (A.S. 2025/2026)
 Luogo: Scuola
 
-Descrizione: Attività dedicata all’orientamento post-diploma, con l’obiettivo di fornire una panoramica sulle opportunità disponibili: università, lavoro e alternative come il servizio civile. Gli incontri hanno fornito strumenti concreti per una scelta consapevole del proprio futuro.
+Descrizione: Ho partecipato a incontri di orientamento focalizzati sulla transizione post-diploma. Ho esplorato le tre macro-direzioni: università (percorsi, selezioni, studi), lavoro (tirocini, apprendistato, inserimento), e alternative (servizio civile, gap year). Gli incontri mi hanno aiutato a comprendere che non c’è un’unica strada giusta, ma molte opportunità con pro e contro. Ho iniziato a ragionare in modo consapevole su quale percorso si allinea meglio ai miei interessi e capacità.
 
 Competenze tecniche:
-Conoscenza dei percorsi post-diploma
-Informazioni su università e lavoro
+- Percorsi universitari: lauree triennali, magistrali, specializzazioni
+- Percorsi lavorativi: stage, apprendistato, assunzione diretta
+- Finanziamento: borse di studio, prestiti, agevolazioni
+- Opportunità alternative: servizio civile, estero, formazione duale
 
 Competenze trasversali:
-Consapevolezza delle scelte
-Orientamento professionale
-Capacità decisionale
+- Autoconsapevolezza: cosa voglio davvero dal mio futuro
+- Decisionalità: capacità di vagliare alternative e scegliere
+- Responsabilità: consapevolezza che le scelte hanno conseguenze
+- Flessibilità: apertura al fatto che i piani possono cambiare
 
-13. Visita Università di Lubiana
-Tipo di progetto: Formazione / Università
-Data: 04/2026 A.S 2025/2026
-Luogo: Lubiana
+13. Visita Università di Lubiana - IA e Ricerca
 
-Descrizione: Attività svolta presso il dipartimento di Informatica dell’Università di Lubiana durante il viaggio di istruzione. Sono state seguite presentazioni di studenti universitari su progetti legati all’intelligenza artificiale. L’esperienza si è conclusa con la redazione di una relazione di sintesi.
+Tipo di progetto: Formazione - Esperienziale internazionale
+Data: 04/2026 (A.S. 2025/2026)
+Luogo: Lubiana (Slovenia)
+
+Descrizione: Ho visitato il dipartimento di Informatica dell’Università di Lubiana durante un viaggio di istruzione. Ho ascoltato presentazioni di studenti universitari su progetti di ricerca in AI, vedendo come si lavora con le tecnologie ai massimi livelli accademici. Ho scritto una relazione sintetica che mi ha obbligato a distillare i concetti principali e a riflettere su quali aspetti della ricerca mi interessassero di più. L’esperienza ha aperto la mia prospettiva su cosa possa significare proseguire gli studi oltre il diploma.
 
 Competenze tecniche:
-Conoscenze base di progetti AI
-Analisi di casi reali
+- Intelligenza artificiale: panoramica di applicazioni e ricerca
+- Machine learning: concetti base, progetti case study
+- Ricerca universitaria: metodologie, pubblicazioni, funding
+- Strumenti e framework: panoramica ecosistema AI
 
 Competenze trasversali:
-Capacità di sintesi
-Ascolto attivo
-Apertura a contesti internazionali
+- Ascolto attivo: estrarre concetti da presentazioni tecniche
+- Sintesi analitica: ridurre complessità a punti chiave
+- Visione internazionale: apertura a contesti europei
+- Curiosità intellettuale: interesse per la ricerca frontiera
+- Bilinguismo: navigare ambienti non anglofoni (Slovenia, inglese accademico)
 
-14. Esposizione Project Work
-Tipo di progetto: Presentazione
-Data: 05/2026 A.S 2025/2026
+14. Esposizione Project Work - KeyManager
+
+Tipo di progetto: Presentazione tecnica
+Data: 05/2026 (A.S. 2025/2026)
 Luogo: Scuola
 
-Descrizione: Presentazione del project work alle classi quarte. Il progetto FieldBooking è stato illustrato spiegando obiettivi, funzionamento e scelte tecniche. L’esposizione è stata valutata tramite una rubrica predisposta dai docenti.
+Descrizione: Ho presentato il progetto KeyManager alle classi quarte, illustrando l’architettura a tre strati (backend PHP, database MySQL, browser extension), le scelte di sicurezza (crittografia, prepared statements, session management) e i compromessi progettuali (usabilità vs. sicurezza, complessità implementativa). La sfida era rendere comprensibile una soluzione tecnica complessa a un’audience di studenti con diversi livelli di esperienza.
 
 Competenze tecniche:
-Presentazione di un progetto tecnico
-Organizzazione dei contenuti
+- Presentazione di architetture software
+- Spiegazione di scelte progettuali e compromessi
+- Comunicazione di concetti di sicurezza in modo accessibile
+- Organizzazione di contenuti tecnici
 
 Competenze trasversali:
-Public speaking
-Comunicazione chiara
-Gestione del pubblico
+- Public speaking: gestione dell’ansia, chiarezza nel linguaggio
+- Empatia tecnica: adattare il livello di dettaglio all’audience
+- Gestione del tempo: entro limite temporale assegnato
+- Apertura al feedback: domande e valutazione della rubrica
 
 15. Project Work (KeyManager)
 Tipo di progetto: Sviluppo software
-Data: Annuale 2025/2026
+Data: A.S. 2025/2026 (annuale)
 Luogo: Scuola
 
-Descrizione: KeyManager è un sistema completo di gestione delle credenziali che combina un backend PHP, un database MySQL e una browser extension per l'autofill automatico. L'architettura si compone di tre elementi principali: (1) backend PHP che gestisce autenticazione utente, archiviazione crittografata delle credenziali, logging delle attività e protezione CSRF; (2) database MySQL che memorizza credenziali crittografate con master password + doppio livello di crittografia e sessioni utente; (3) browser extension JavaScript/Node.js che rileva campi input di login e auto-compila automaticamente i dati di accesso tramite un canale sicuro. Chris ha ricoperto il ruolo di architetto e sviluppatore principale, implementando la sicurezza end-to-end con session timeout di 30 minuti, prepared statements per prevenire SQL injection, e un sistema di logging per l'audit. Il progetto include verifiche email, reset password tokenizzato, validazione input alle boundaries e test coverage del 80%+ sulla browser extension con Jest.
+Descrizione: Ho sviluppato KeyManager, un sistema completo di gestione delle credenziali a tre strati: backend PHP, database MySQL e browser extension. Il sistema mi ha permesso di approfondire l'architettura sicura end-to-end. Nel backend ho implementato autenticazione utente, archiviazione crittografata (master password + doppio livello), session management con timeout di 30 minuti, prepared statements per prevenire SQL injection, logging e audit trail, CSRF protection. Nel database ho gestito credenziali crittografate e sessioni. Nella browser extension (JavaScript/Node.js) ho implementato il riconoscimento automatico di campi login e l'autofill sicuro tramite canale crittografato. Ho curato anche verifiche email, reset password con token temporanei, validazione input alle system boundaries, e test coverage del 80%+ sulla extension con Jest. L'esperienza mi ha insegnato come affrontare un progetto di ampia portata con focus sulla qualità e la sicurezza.
 
 Competenze tecniche:
-Programmazione full-stack (PHP backend + JavaScript frontend)
-Crittografia dati e master password management
-Architettura multi-layer (backend, extension, database)
-Prepared statements e prevenzione SQL injection
-Sviluppo browser extension (manifest, service worker, content scripts)
-Autofill intelligente con riconoscimento pattern di campi input
-Database MySQL e gestione sessioni
-CSRF protection e security best practices
-Testing con Jest (coverage 80%+)
-Email configuration per verifica e password reset
+- Programmazione backend (PHP): autenticazione, logica applicativa, gestione errori
+- Programmazione frontend (JavaScript): browser extension con manifest, content scripts, service worker
+- Crittografia: double-layer encryption, master password management
+- Database: MySQL, query design, gestione sessioni, schema security
+- Sicurezza: CSRF protection, prepared statements, SQL injection prevention, input validation
+- Browser extension: DOM inspection, pattern matching per campi login, comunicazione secure tra extension e backend
+- Testing: Jest, test coverage analysis (80%+)
+- Email: configurazione verifica e password reset tokenizzato
+- Debugging distribuito su componenti multi-layer
 
 Competenze trasversali:
-Architettura software complessa
-Gestione della sicurezza informatica
-Problem solving multi-componente
-Gestione di progetto annuale
-Testing e quality assurance
-Lavoro autonomo su progetto di ampia portata
-Capacità di iterazione e debugging distribuito
-
-
-
-
-
-📅 Anno scolastico 2023/2024
-Introduzione: "In questo portfolio presento i principali progetti: attività di amministrazione e gestione su sistemi Linux, esperienze maturate attraverso l'ANPAL, interventi pratici di assemblaggio e smontaggio di dispositivi ("Monta e Smonta") e iniziative dedicate alla sicurezza."
-01 — Linux
-Completato un modulo di cinque lezioni su Linux, per un totale di 10 ore di studio. Acquisita familiarità con le caratteristiche principali di Linux, imparati i comandi base e approfondita la storia del sistema operativo e i suoi collaboratori chiave.
-02 — ANPAL
-Esaminate le varie dinamiche del mondo del lavoro, con focus su come sviluppare e applicare le proprie competenze per prepararsi al futuro. Momento utile per ottenere consigli pratici su come navigare nel mondo del lavoro in modo più sicuro e consapevole.
-03 — Monta e Smonta
-(Descrizione non ancora compilata nel sito)
-04 — Sicurezza
-(Descrizione non ancora compilata nel sito)
-
-📅 Anno scolastico 2024/2025
-Introduzione: "This is your Project Page" (sezione introduttiva non ancora personalizzata)
-01 — Polarity
-Progetto sviluppato durante un'attività di laboratorio informatico. Obiettivo: comprendere e applicare i concetti di Node.js, API e sviluppo di bot su Telegram. Il risultato è stato un bot che, integrandosi con un sito musicale, permette di cercare un artista e riceverne descrizione e discografia.
-02 — MEAD
-Progetto di progettazione e configurazione di reti informatiche, con realizzazione di connessioni tra dispositivi e configurazione manuale degli indirizzi IP.
-03 — Mi Presento
-(Descrizione non ancora compilata in questa sezione — presente in dettaglio nel portfolio principale)
-04 — CNA
-(Descrizione non ancora compilata in questa sezione — presente in dettaglio nel portfolio principale)
+- Pensiero architetturale per sistemi complessi
+- Gestione del tempo su progetto annuale
+- Responsabilità sulla sicurezza dei dati
+- Problem solving multi-componente (backend, database, frontend)
+- Iterazione basata su feedback e refactoring
+- Attenzione al dettaglio (security-critical code)
+- Autonomia su progetto di ampia portata
