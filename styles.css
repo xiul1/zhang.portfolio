@@ -392,8 +392,8 @@ body[data-issue="04"] {
 }
 
 body[data-issue="05"] {
-  --ambient-x: 55%;
-  --ambient-y: 48%;
+  --ambient-x: 50%;
+  --ambient-y: 42%;
 }
 
 body[data-issue="06"] {
@@ -1173,6 +1173,14 @@ body[data-issue="06"] {
   --bridge-length: 10.5rem;
 }
 
+.issue-section--projects::before {
+  background:
+    linear-gradient(90deg, rgba(2, 2, 2, 0.82) 0%, transparent 12%, transparent 88%, rgba(2, 2, 2, 0.82) 100%),
+    linear-gradient(180deg, rgba(2, 2, 2, 0.98), rgba(2, 2, 2, 0.32) 66%, transparent);
+  height: min(10rem, 22vw);
+  opacity: calc(0.88 + var(--section-dim) * 0.24);
+}
+
 .issue-section--contact {
   --bridge-x: 18%;
   --bridge-top: 4.8rem;
@@ -1677,6 +1685,10 @@ body[data-issue="06"] {
   padding-bottom: 3.4rem;
 }
 
+.projects-section.section-shell {
+  width: min(1440px, calc(100% - 1.4rem));
+}
+
 .skill-universe__header {
   position: absolute;
   z-index: 3;
@@ -2131,7 +2143,7 @@ body[data-issue="06"] {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  gap: 1.1rem;
+  gap: 2.2rem;
   align-items: start;
   max-width: 100%;
   margin-top: 1rem;
@@ -2143,6 +2155,8 @@ body[data-issue="06"] {
   scrollbar-width: none;
   -ms-overflow-style: none;
   padding-bottom: 1.5rem;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 5%, #000 95%, transparent 100%);
+          mask-image: linear-gradient(90deg, transparent 0%, #000 5%, #000 95%, transparent 100%);
 }
 
 .project-grid::-webkit-scrollbar {
@@ -2282,7 +2296,7 @@ body[data-issue="06"] {
 }
 
 .issue-section--projects .project-card {
-  flex: 0 0 clamp(220px, 23vw, 290px);
+  flex: 0 0 clamp(260px, 30vw, 380px);
   scroll-snap-align: start;
   transition:
     opacity 120ms linear,
@@ -2400,7 +2414,7 @@ body[data-issue="06"] {
   width: 100%;
   aspect-ratio: 0.68;
   min-height: auto;
-  padding: 1.5rem 1.28rem;
+  padding: 1.85rem 1.55rem;
   border: 2px solid rgba(9, 9, 24, 0.96);
   border-radius: 2.3rem;
   color: var(--ink);
@@ -6393,7 +6407,7 @@ body.is-low-memory-device .project-modal__proof-sheet-backdrop {
     --project-grid-travel-y: 19rem;
     grid-template-columns: repeat(2, minmax(15rem, 18.5rem));
     max-width: min(100%, 39rem);
-    gap: 1.4rem;
+    gap: 1.8rem;
     transform: translateY(calc(var(--project-grid-offset-y) - (1 - var(--projects-progress)) * var(--project-grid-travel-y)));
   }
 
@@ -6552,6 +6566,7 @@ body.is-low-memory-device .project-modal__proof-sheet-backdrop {
   .project-card {
     width: min(100%, 21rem);
     justify-self: center;
+    flex: 0 0 auto;
   }
 
   .issue-section--projects .project-card:nth-child(1),
