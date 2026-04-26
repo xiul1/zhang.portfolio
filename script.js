@@ -521,7 +521,7 @@ const PROJECT_DETAILS = {
     proofs: [],
   },
   "mead-informatica": {
-    title: "Mead Informatica",
+    title: "Mead",
     type: { zh: "Cybersecurity / Attack-Defence Lab", en: "Cybersecurity / Laboratorio" },
     link: "", linkLabel: "", githubLink: "", githubLabel: "GitHub",
     githubNote: { zh: "School activity — no public repository.", en: "Attività scolastica — nessun repository pubblico." },
