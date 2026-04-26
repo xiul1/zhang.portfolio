@@ -1,3 +1,4 @@
+const BASE = import.meta.env.BASE_URL;
 const root = document.documentElement;
 const siteLoader = document.getElementById("site-loader");
 const heroSection = document.querySelector(".hero-section");
@@ -1005,9 +1006,9 @@ const getProjectCardIndexLabel = (button) =>
 const applyProjectCoverTheme = (button, cover) => {
   const theme = cover?.theme ?? {};
   const styleEntries = [
-    ["--cover-logo-asset", cover?.logo?.asset ? `url("${cover.logo.asset}")` : ""],
-    ["--cover-art-asset", cover?.art?.asset ? `url("${cover.art.asset}")` : ""],
-    ["--card-hover-image", (cover?.art?.asset || cover?.logo?.asset) ? `url("${cover.art?.asset || cover.logo?.asset}")` : ""],
+    ["--cover-logo-asset", cover?.logo?.asset ? `url("${BASE}${cover.logo.asset}")` : ""],
+    ["--cover-art-asset", cover?.art?.asset ? `url("${BASE}${cover.art.asset}")` : ""],
+    ["--card-hover-image", (cover?.art?.asset || cover?.logo?.asset) ? `url("${BASE}${cover.art?.asset || cover.logo?.asset}")` : ""],
     ["--cover-origin-x", theme.originX],
     ["--cover-origin-y", theme.originY],
     ["--cover-logo-muted", theme.logoMuted],
